@@ -1,0 +1,25 @@
+{
+  "name": "afire1",
+  "version": "1.0.0",
+  "description": "Association for Industry Ready Engineers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NithinkumarHV/AFIRE.git"
+  },
+  "author": "Nithin Kumar H V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NithinkumarHV/AFIRE/issues"
+  },
+  "homepage": "https://github.com/NithinkumarHV/AFIRE#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "path": "^0.12.7"
+  }
+}
